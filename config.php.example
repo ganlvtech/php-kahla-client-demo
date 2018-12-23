@@ -1,0 +1,8 @@
+<?php
+
+return [
+    'username' => '',
+    'password' => '',
+    'send_to' => 'test',
+    'send_content' => 'Hello, world!',
+];
